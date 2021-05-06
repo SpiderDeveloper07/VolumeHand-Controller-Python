@@ -4,4 +4,4 @@ This is project was part of the Hand Tracking module created by me!!
 If you want know about the project more??
 Visit my Hand tracking repository in github(links down)
 
-[Hand Tracking Repository Link]{https://github.com/SpiderDeveloper07/Hand-Tracking}
+[Hand Tracking Repository Link](https://github.com/SpiderDeveloper07/Hand-Tracking)
